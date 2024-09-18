@@ -28,3 +28,10 @@ public class HollowRectangle {
         System.out.println();
     }
 }
+
+// Output:
+// **********
+// * *
+// * *
+// * *
+// **********
