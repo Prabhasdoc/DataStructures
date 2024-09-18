@@ -18,3 +18,10 @@ public class SolidRectangle {
 
     }
 }
+// Output:
+// 5
+// * * * * *
+// * * * * *
+// * * * * *
+// * * * * *
+// * * * * *
