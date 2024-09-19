@@ -16,7 +16,7 @@ public class SolidRectangle {
                     // Print a "*" character followed by a space
                     System.out.print("* ");
                 }
-                // Move to the next line after printing each row
+
                 System.out.println();
             }
         }
