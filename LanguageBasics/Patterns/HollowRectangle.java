@@ -2,8 +2,8 @@ package DataStructures.LanguageBasics.Patterns;
 
 public class HollowRectangle {
     public static void main(String[] args) {
-        int rows = 5; // number of rows
-        int cols = 10; // number of columns
+        int rows = 5; 
+        int cols = 10;
 
         // print top border
         for (int i = 0; i < cols; i++) {
