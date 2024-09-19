@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class SolidRectangle {
     public static void main(String[] args) {
-        // Create a Scanner object to read input from the user
+
         try (Scanner sc = new Scanner(System.in)) {
             // Read an integer from the user, which represents the size of the rectangle
             int n = sc.nextInt();
