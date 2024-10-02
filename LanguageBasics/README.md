@@ -39,4 +39,4 @@ A collection of practice exercises and problems to help reinforce understanding 
 Code snippets with explanations
 Exercises with solutions
 8.Links to online platforms for practice
-##Feel free to add or remove topics as per your requirements. You can also create subfolders or separate markdown files for each topic to keep your repository organized. Good Luck with your DSA preparation!
+##Feel free to add or remove topics as per your requirements. You can also create subfolders or separate markdown files for each topic to keep your repository organized.
