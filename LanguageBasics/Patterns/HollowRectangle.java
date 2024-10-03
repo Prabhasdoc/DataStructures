@@ -9,6 +9,7 @@ public class HollowRectangle {
         for (int i = 0; i < cols; i++) {
             System.out.print("*");
         }
+        
         System.out.println();
 
         // print middle rows
