@@ -1,4 +1,4 @@
-package DataStructures.LanguageBasics.Patterns;
+// package DataStructures.LanguageBasics.Patterns;
 
 import java.util.Scanner;
 
