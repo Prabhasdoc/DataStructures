@@ -1,4 +1,3 @@
-
 Language Basics:
 This folder covers the fundamental concepts and basics of programming languages, which are essential for any aspiring software developer or data scientist.
 
