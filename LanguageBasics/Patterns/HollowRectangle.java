@@ -1,4 +1,4 @@
-//package DataStructures.LanguageBasics.Patterns;
+package DataStructures.LanguageBasics.Patterns;
 
 public class HollowRectangle {
     public static void main(String[] args) {
