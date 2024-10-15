@@ -1,3 +1,4 @@
+
 //package DataStructures.LanguageBasics.Patterns;
 
 public class HollowRectangle {
